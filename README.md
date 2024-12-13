@@ -85,28 +85,25 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
 
 ## Getting Started
 
-1. **Clone the repository**:
+1. **Download the database**:
    ```bash
-   git clone https://github.com/yourusername/blood-donation-website.git
+   https://github.com/anupaprabhasara/SLIIT-IWT-Project-2024/raw/main/database/hopeflow.sql
    ```
 
-2. **Install dependencies**:
+2. **Live preview**:
    ```bash
-   composer install
+   https://iwtproject.anupa.lk/
    ```
 
 3. **Setup Database**:
    - Import the SQL file from the `/database` folder.
-   - Update the database connection in `config.php`.
+   - Update the database connection in `conn.php`.
 
 4. **Configure**:
-   - Update `config.php` file with database credentials.
+   - Update `conn.php` file with database credentials.
 
 5. **Run**:
    - Start the development server.
-
-6. **Access**:
-   - Visit `http://localhost/your-project` in your browser.
 
 ## Contributing
 
@@ -114,7 +111,7 @@ Contributions are welcome! Feel free to fork the project, make changes, and subm
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License.
 
 ---
 
