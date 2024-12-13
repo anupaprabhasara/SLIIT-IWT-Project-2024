@@ -30,7 +30,6 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
 
 3. **Dashboard**: 
    - Personalized dashboard for users to track donations, view history, and manage profiles.
-   - Includes graphs, progress bars, and visual statistics for donation activity.
 
 4. **Real-Time Updates**: 
    - Using AJAX and jQuery for dynamic updates (e.g., displaying latest blood needs, donation records).
@@ -47,13 +46,6 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
 
 3. **User Management**:
    - Manage user roles, permissions, and access control for security purposes.
-
-## Database Schema
-
-- **Tables**:
-  - `users`: Stores user details (ID, name, email, password, etc.).
-  - `donations`: Logs donation data (user_id, blood_type, quantity, timestamp).
-  - `blood_stock`: Manages blood inventory (blood_type, quantity).
 
 ## Design Features
   
