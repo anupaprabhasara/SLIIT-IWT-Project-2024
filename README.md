@@ -45,10 +45,7 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
    - Track and manage available blood stocks (e.g., A+, B-, O+, etc.).
    - Real-time updates of blood bank data.
 
-3. **Reports and Statistics**:
-   - Generate reports and visual analytics on blood donations and usage.
-
-4. **User Management**:
+3. **User Management**:
    - Manage user roles, permissions, and access control for security purposes.
 
 ## Database Schema
@@ -59,9 +56,6 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
   - `blood_stock`: Manages blood inventory (blood_type, quantity).
 
 ## Design Features
-
-- **Responsive Design**: 
-  - The website adapts to various screen sizes using CSS media queries.
   
 - **Icons and Emojis**: 
   - Utilization of modern icons and emojis to enhance user experience.
