@@ -16,9 +16,6 @@ This is a full-stack Blood Donation Website project designed to facilitate blood
   - **PHP**
   - **MySQL** for database management
 
-- **Full Stack Framework**:
-  - Responsive design and cross-browser support
-
 ## Features
 
 ### Client Side Interface
